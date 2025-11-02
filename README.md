@@ -64,7 +64,7 @@ Aplikasi ini adalah sebuah *database* game yang dibangun menggunakan **React (Vi
 
 5.  Isi file `.env` dengan API Key kamu dari [RAWG.io](https://rawg.io/apidocs):
     ```.env
-    VITE_RAWG_API_KEY=MASUKKAN_API_KEY_KAMU_DI_SINI
+    VITE_RAWG_API_KEY= 3caa66a0b4a548658c6f4ddcc8d013e7
     ```
 
 6.  Jalankan aplikasi di mode *development*:
