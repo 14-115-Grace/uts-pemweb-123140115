@@ -19,8 +19,6 @@ Aplikasi dapat diakses secara *live* melalui link Vercel berikut:
 
 Aplikasi ini adalah sebuah *database* game yang dibangun menggunakan **React (Vite)** dan mengambil data secara *real-time* dari **RAWG.io API**. Aplikasi ini memungkinkan pengguna untuk menjelajahi, mencari, memfilter, dan melihat detail dari ribuan game.
 
-Project ini dibuat tanpa menggunakan *dependency* eksternal tambahan seperti `axios` atau `react-router-dom`, dan sepenuhnya mengandalkan **React Hooks** (`useState`, `useEffect`) dan **Fetch API** bawaan *browser* untuk *state management* dan navigasi.
-
 ---
 
 ## 🛠️ Fitur Utama
