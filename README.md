@@ -84,5 +84,4 @@ Aplikasi ini adalah sebuah *database* game yang dibangun menggunakan **React (Vi
 ![Tampilan hasil pencarian](./Image/Tampilan%20hasil%20pencarian.png)
 
 **3. Halaman Detail Game**
-![Tampilan halaman detail game](./Image/Tampilan%20halaman%20detail%20game.png)# 🎮 UTS Pemrograman Web - Game Database
-
+![Tampilan halaman detail game](./Image/Tampilan%20halaman%20detail%20game.png)
